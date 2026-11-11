@@ -2,7 +2,7 @@
 
 After learning some database fundamentals, I created a simple devices_store_sql_db project, so I could apply all concepts I’ve learned in a practical way.
 
-🎥 **[Watch the Video Walkthrough Here](https://youtu.be/XsGbwVfkev0)**
+🎥 **[Watch the Video Walkthrough Here](https://youtu.be/p2RCfWMDEJ0)**
 
 🗄️ Diagram:
 ![Database ERD Schema](schema/relational_schema.png)
